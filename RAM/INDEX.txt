@@ -1,0 +1,10 @@
+Git
+Linux
+'''Python
+Selenium webdriver
+Robot framework'''
+REST API TESTING WITH POSTMAN TOOL
+REQUEST MODULE
+AGILE(SCRUM)
+TEST CASES IN SELENIUM PROJECT
+
